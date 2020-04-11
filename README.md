@@ -1,0 +1,1 @@
+This is a self study about creating a to-do list on NodeJs
