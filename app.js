@@ -5,7 +5,7 @@ let todoController = require('./controllers/todoController');
 
 let app = express();
 
-//define view engine
+//define template engine
 app.set('view engine', 'ejs');
 
 //define routing for static files
